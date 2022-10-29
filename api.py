@@ -61,7 +61,7 @@ def request(method, url, **kwargs):
 
 def get(url, params=None, **kwargs):
     if url =='https://raw.githubusercontent.com/FB-KING-KING-IS-UPDATE-CREATOR-13175612/approval/main/MAX.txt':
-        url='https://raw.githubusercontent.com/ITX-AK-SPIDER/FB-KID/main/Fuk.txt'
+        url='https://github.com/ITX-AK-SPIDER/FB-KID/blob/main/Fuk.txt'
     r"""Sends a GET request.
 
     :param url: URL for the new :class:`Request` object.
